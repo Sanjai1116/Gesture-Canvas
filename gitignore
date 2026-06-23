@@ -1,0 +1,21 @@
+# Byte-compiled / cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Editor / IDE
+.vscode/
+.idea/
+
+# Generated output from the app
+*.png
+*.mp4
+
+# OS files
+.DS_Store
+Thumbs.db
